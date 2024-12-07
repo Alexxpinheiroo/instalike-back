@@ -1,5 +1,0 @@
-AIzaSyDr8V99bsaE_p7uvcHhY9eGG4gXUFQRJMc
-alexmateus27
-Zk2wDyHPrpVUDMrP
-
-mongodb+srv://alexmateus27:Zk2wDyHPrpVUDMrP@cluster0.egvyg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
